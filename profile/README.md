@@ -42,7 +42,7 @@
 
 如果你认可这种**“务实进取”**的态度，欢迎加入我们。
 
-* **📖 了解更多**: [组织详细介绍](./docs/about.md)
+* **📖 了解更多**: [组织详细介绍](https://github.com/qianqianup/.github)
 * **🧩 浏览项目**: [查看仓库列表](https://github.com/orgs/qianqianup/repositories)
 * **🚀 立即行动**: 你的每一次提交，都是在为自己的未来增值。
 
