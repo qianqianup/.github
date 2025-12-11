@@ -40,7 +40,7 @@
 
 ### ➕ 加入与共建
 
-如果你认可这种**实事求是**的态度，欢迎加入我们。
+如果你认可这种"**实事求是**"的态度，欢迎加入我们。
 
 * **📖 了解更多**: [组织详细介绍](https://github.com/qianqianup/.github)
 * **🧩 浏览项目**: [查看仓库列表](https://github.com/orgs/qianqianup/repositories)
